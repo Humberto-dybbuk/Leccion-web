@@ -6,7 +6,7 @@ const fn = () => {
 
 fn()
 
-const cclikeandodybb = () => {
+const clikeandodybb = () => {
     let a = "y luego disco"
 
     console.log(a)
